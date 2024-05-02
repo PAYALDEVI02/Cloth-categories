@@ -16,6 +16,8 @@ It has 3 categories- Men
                    - Women
                    - Kids
 
+Product Api used: https://cdn.shopify.com/s/files/1/0564/3685/0790/files/multiProduct.json
+
 ## Technologies Used
 
 - Javascript
