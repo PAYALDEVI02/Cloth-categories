@@ -9,6 +9,8 @@
 - `script.js`: JavaScript file for logic used.
 - `README.md`: About the project.
 
+**You can visit my work page: https://payaldevi02.github.io/Cloth-categories/ **
+
 **Open Live Server to run the Project.**
 
 -Click on each category to display the product.
